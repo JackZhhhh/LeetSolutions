@@ -1,0 +1,4 @@
+Focus on:
+
+Merge Sort. Do similar questions.
+Find questions with try and catch.
