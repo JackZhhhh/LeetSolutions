@@ -1,6 +1,6 @@
-# LeetCode Solutions (C++)
+# LeetCode Solutions (C++ / Python)
 
-This repository contains my **LeetCode solutions written in C++**, automatically synced using **LeetSync**.
+This repository contains my **LeetCode solutions written in C++** and now some python, automatically synced using **LeetSync**.
 
 The purpose of this repo is to track my progress, document my problem-solving approach, and maintain a clean archive of solved problems for review and interview preparation.
 
@@ -9,6 +9,7 @@ The purpose of this repo is to track my progress, document my problem-solving ap
 ## 🛠 Language
 
 - **C++**
+- **Python**
 
 ---
 
